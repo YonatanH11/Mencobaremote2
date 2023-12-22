@@ -33,6 +33,7 @@
     </style>
 </head>
 <body>
+    <h1>COBA COBA</h1>
 
     <section>
         <?php
